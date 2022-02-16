@@ -13,7 +13,7 @@
 
 ***About me ....***
 
-- 🔭 I’m currently learning **Mphasis.**
+- 🔭 I’m currently Selected at **Mphasis** as a Trainee Associate Software Engineer.
  
 - 🧐 Interested in full stack. Recent focus on **AWS**.
 
